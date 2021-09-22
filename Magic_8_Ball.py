@@ -1,3 +1,6 @@
+#Aaron Long 
+#Magic 8-Ball
+
 import random
 
 name = "Billy"
